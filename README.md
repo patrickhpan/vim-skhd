@@ -1,6 +1,6 @@
 # vim-skhd: Basic vim emulation in skhd
 
-Have you ever wanted to run `v100dw` in your favorite non-vim word processor?Now you can with [skhd](https://github.com/koekeishiya/skhd/).
+Have you ever wanted to run `v100dw` in your favorite non-vim word processor? Now you can with [skhd](https://github.com/koekeishiya/skhd/)
 
 [Demo](https://streamable.com/swg0zx)
 
